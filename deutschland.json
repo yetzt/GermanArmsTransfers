@@ -1,0 +1,4838 @@
+[
+{
+"supplier" : "Argentina" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MEKO-140" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "1979" ,
+"deliver_year" : "1985-2004" ,
+"nr_delivered" : "6" ,
+"comments" : "Argentine designation Espora; delivery of last 2 delayed 10-15 years until 2000-2004 for lack of funding (components delivered in 1980s)"
+}
+,{
+"supplier" : "Argentina" ,
+"sup_type" : "L" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "2007" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "POM' programme"
+}
+,{
+"supplier" : "Australia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MEKO-200ANZ" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "1989" ,
+"deliver_year" : "1996-2006" ,
+"nr_delivered" : "8" ,
+"comments" : "$2.7 b deal; Australian designation Anzac"
+}
+,{
+"supplier" : "Belgium" ,
+"sup_type" : "L" ,
+"weapon_nr" : "220" ,
+"weapon_nr_txt" : "220" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2005" ,
+"deliver_year" : "2005-2011" ,
+"nr_delivered" : "(220)" ,
+"comments" : "EUR170 m 'MPPV' programme (offsets incl production of components in Belgium); option on 132 more; incl 10 ambulance and 52 CP version"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Type-209/1400" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "1995" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "1" ,
+"comments" : "Brazilian designation Tikuna"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Berlin" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "CAD2.6 b ($2.6 b) 'JSS' programme (incl option on 1); selected but not yet ordered by end-2013; delivery possibly from 2017"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "2005" ,
+"deliver_year" : "2008-2009" ,
+"nr_delivered" : "2" ,
+"comments" : "$50 m deal; part of 'Danubio-4' programme; Chilean designation Piloto Pardo"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "$45 m deal; part of 'Danubio-4' programme; Chilean designation Piloto Pardo; delivery 2014"
+}
+,{
+"supplier" : "China" ,
+"sup_type" : "L" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "BF8L" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1981)" ,
+"deliver_year" : "1982-2013" ,
+"nr_delivered" : "(4400)" ,
+"comments" : "For YW-531 (Type-63) YW-531H (Type-85) YW-534 (Type-89) YW-535 (Type-90) WZ-551 and WMZ-551 (Type-92) APC (incl IFV and other versions) PLT-02 tank destroyer PTL-05 self-propelled mortar and  Type-85 self-propelled gun produced in China; incl BF-8L4"
+}
+,{
+"supplier" : "China" ,
+"sup_type" : "L" ,
+"weapon_nr" : "100" ,
+"weapon_nr_txt" : "(100)" ,
+"weapon_designation" : "BF-12L413" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "1996-2000" ,
+"nr_delivered" : "(100)" ,
+"comments" : "For PZL-45 self-propelled gun produced in China; BF12L413FC version; probably assembled/produced in China"
+}
+,{
+"supplier" : "China" ,
+"sup_type" : "L" ,
+"weapon_nr" : "48" ,
+"weapon_nr_txt" : "(48)" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2001-2006" ,
+"nr_delivered" : "48" ,
+"comments" : "For 12 Type-039G (Song) submarines produced in China; probably produced in China"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "1" ,
+"comments" : "Colombian designation 20 de Julio"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "2011" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "1" ,
+"comments" : "$66 m deal; Colombian designation 20 de Julio"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "OPV" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Colombian designation 20 de Julio; delivery 2015"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "L" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "Fahd" ,
+"weapon_description" : "APC" ,
+"order_year" : "1978" ,
+"deliver_year" : "1986-2013" ,
+"nr_delivered" : "(1250)" ,
+"comments" : "Developed for assembly/production in Egypt; incl Fahd-240/30 IFV version"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "L" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "Terrier LAU" ,
+"weapon_description" : "APV" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2002-2013" ,
+"nr_delivered" : "(60)" ,
+"comments" : "Produced in Egypt as Kader-120"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2002" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(2)" ,
+"comments" : "For 2 Hamina FAC produced in Finland"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "L" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "1" ,
+"comments" : "Part of EUR1.8 b Archimedes deal (offsets 115%; incl modernization of Greek shipyard for submarine production); Greek designation Katsonis; delivery delayed several years after disagreement between Greece and producer"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2002" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : ""
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "L" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2003" ,
+"deliver_year" : "2006-2008" ,
+"nr_delivered" : "(12)" ,
+"comments" : "Part of EUR1.7 b deal (offsets incl 40% in production of components in Greece); Buffel-2 version; delivery 2006-2009"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "L" ,
+"weapon_nr" : "170" ,
+"weapon_nr_txt" : "170" ,
+"weapon_designation" : "Leopard-2A6" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2003" ,
+"deliver_year" : "2006-2009" ,
+"nr_delivered" : "(170)" ,
+"comments" : "Part of EUR1.7 b deal (offsets incl 40% in production of components and assembly of 140 in Greece); Leopard-2HEL (Leopard-2A6EX) version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "L" ,
+"weapon_nr" : "350" ,
+"weapon_nr_txt" : "(350)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "2007-2013" ,
+"nr_delivered" : "(350)" ,
+"comments" : "Incl production of components in Greece and Greece funding for development; option on 100 more"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "22250" ,
+"weapon_nr_txt" : "(22250)" ,
+"weapon_designation" : "MILAN" ,
+"weapon_description" : "Anti-tank missile" ,
+"order_year" : "(1979)" ,
+"deliver_year" : "1984-2013" ,
+"nr_delivered" : "(20400)" ,
+"comments" : "MILAN-2 and MILAN-2T version; ordered from French-FRG company; most produced in India; incl for BMP-2 IFV"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "28" ,
+"weapon_nr_txt" : "28" ,
+"weapon_designation" : "Do-228" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "1983" ,
+"deliver_year" : "1987-2003" ,
+"nr_delivered" : "(28)" ,
+"comments" : "Do-228-201 version; incl 27 produced in India"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "56" ,
+"weapon_nr_txt" : "(56)" ,
+"weapon_designation" : "Do-228MP" ,
+"weapon_description" : "MP aircraft" ,
+"order_year" : "1983" ,
+"deliver_year" : "1986-2011" ,
+"nr_delivered" : "(56)" ,
+"comments" : "Incl some 30-36 for coast guard"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Aditya" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "1987" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "1" ,
+"comments" : "Designed for production in India; option on 1 more not used"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "Do-228" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(12)" ,
+"comments" : ""
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "Do-228" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Contract probably not yet signed"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "Do-228MP" ,
+"weapon_description" : "MP aircraft" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(1)" ,
+"comments" : "$280 m deal; incl for coast guard; contract probably not yet signed"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "L" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "(16)" ,
+"weapon_designation" : "ACTAS" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For modernization of 3 Delhi destroyers and 3 Talwar frigates and for 10 Kolkata destroyers and Shivalik and Kamorta frigates produced in India; incl production of 10 in India; selected but not yet ordered by end-2013"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "57" ,
+"weapon_nr_txt" : "(57)" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "1976" ,
+"deliver_year" : "1977-2011" ,
+"nr_delivered" : "(57)" ,
+"comments" : "Indonesian designation NBO-105CB/CBS; incl for police"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "PB-57" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "1993" ,
+"deliver_year" : "2000-2004" ,
+"nr_delivered" : "4" ,
+"comments" : "$260 m deal; PB-57 NAV-5 version; Indonesian designation Todak"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-212" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "1997" ,
+"deliver_year" : "2006-2007" ,
+"nr_delivered" : "2" ,
+"comments" : "Italian designation Todaro"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "L" ,
+"weapon_nr" : "70" ,
+"weapon_nr_txt" : "70" ,
+"weapon_designation" : "PzH-2000 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002-2010" ,
+"nr_delivered" : "(70)" ,
+"comments" : "EUR500 m deal; 68 produced in Italy"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "L" ,
+"weapon_nr" : "444" ,
+"weapon_nr_txt" : "(444)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2006-2013" ,
+"nr_delivered" : "(444)" ,
+"comments" : "Incl production of components in Italy and Italian funding for development"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-212" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2008" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Italian designation Todaro; delivery 2015-2016"
+}
+,{
+"supplier" : "Latvia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "SWATH-125t" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(4)" ,
+"comments" : "Latvian designation Skrunda; delivery 2011-2014"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MEKO-A100" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "1999" ,
+"deliver_year" : "2006-2010" ,
+"nr_delivered" : "6" ,
+"comments" : "MYR6.8 b ($2 b) 'New Generation Patrol Vessel' (NGPV) programme (offsets incl production of at least 30% of components and assembly of 4 in Malaysia; original MYR5.4 b cost increased with MYR1.4 b and delivery delayed due to problems of producer); MEKO-10"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "L" ,
+"weapon_nr" : "57" ,
+"weapon_nr_txt" : "57" ,
+"weapon_designation" : "PzH-2000 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "2002" ,
+"deliver_year" : "2004-2010" ,
+"nr_delivered" : "(57)" ,
+"comments" : "$420 m deal (offsets 100% incl production of components in Netherlands); 18 to be sold immediately after delivery to Netherlands"
+}
+,{
+"supplier" : "Norway" ,
+"sup_type" : "L" ,
+"weapon_nr" : "150" ,
+"weapon_nr_txt" : "150" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2005-2007" ,
+"nr_delivered" : "(150)" ,
+"comments" : "Incl production of components in Norway and Norwegian funding for development"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "MEKO-A100" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "2001" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Project-621 Gawron-2'; delivery delayed for financial reasons from 2003 to 2017; 1 more cancelled and option on 5 more not used"
+}
+,{
+"supplier" : "South Africa" ,
+"sup_type" : "L" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MEKO-A200" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "1999" ,
+"deliver_year" : "2006-2007" ,
+"nr_delivered" : "4" ,
+"comments" : "EUR924 m ($0.8-1.12 b) deal (offsets $3.2 b incl $403 m for arms industry incl South African weapons and equipment fitted in South Africa); South African designation Amatola"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "1740" ,
+"weapon_nr_txt" : "(1740)" ,
+"weapon_designation" : "MTU-871" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1981)" ,
+"deliver_year" : "1984-2009" ,
+"nr_delivered" : "(1740)" ,
+"comments" : "For 1484 K-1 tanks and 256 K-1 chassis from USA"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Type-209/1200" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "1994" ,
+"deliver_year" : "1999-2001" ,
+"nr_delivered" : "3" ,
+"comments" : "$510 m deal; South Korean designation Chang Bogo"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "1997" ,
+"deliver_year" : "1999-2000" ,
+"nr_delivered" : "12" ,
+"comments" : "Bo-105CBS-5 armed version; 10 assembled from kits in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2007-2009" ,
+"nr_delivered" : "3" ,
+"comments" : "$1.1 b 'KSS-2' programme (incl $711 m components from FRG)"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2008" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "KSS-2' programme; delivery 2014-2020"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "L" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1993" ,
+"deliver_year" : "1999-2000" ,
+"nr_delivered" : "8" ,
+"comments" : "For 4 Sandown (Segura) minehunters from UK; MTU-396 TB-83 version"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "L" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "16" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "1998" ,
+"deliver_year" : "2003-2006" ,
+"nr_delivered" : "(16)" ,
+"comments" : "Part of EUR1.9 b deal (offsets 80% incl production of 12 in Spain)"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "L" ,
+"weapon_nr" : "219" ,
+"weapon_nr_txt" : "219" ,
+"weapon_designation" : "Leopard-2A6" ,
+"weapon_description" : "Tank" ,
+"order_year" : "1998" ,
+"deliver_year" : "2003-2013" ,
+"nr_delivered" : "(219)" ,
+"comments" : "Part of EUR1.9 b deal (offsets 80% incl production of 189 in Spain); Leopard-2E version"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "L" ,
+"weapon_nr" : "700" ,
+"weapon_nr_txt" : "700" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(275)" ,
+"comments" : "EUR247 m deal (incl production of components in Spain and Spanish funding for development"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "L" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2010" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(12)" ,
+"comments" : "EUR65 m deal; for training; Spanish designation HE-26"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "L" ,
+"weapon_nr" : "120" ,
+"weapon_nr_txt" : "120" ,
+"weapon_designation" : "Leopard-2A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "1994" ,
+"deliver_year" : "1996-2002" ,
+"nr_delivered" : "(120)" ,
+"comments" : "Part of $770 m deal (offsets 120%); Leopard-2A5+ version; option on 90 more nor used; Swedish designation Strv-122"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "L" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "NH-90 NFH" ,
+"weapon_description" : "ASW helicopter" ,
+"order_year" : "2001" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Part of $660 b deal (most assembled in Finland; offsets 100% incl $220 m production of parts for 200 NH-90 in Sweden); Swedish designation Hkp-14"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "L" ,
+"weapon_nr" : "400" ,
+"weapon_nr_txt" : "(400)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(400)" ,
+"comments" : "Incl production of components in Sweden and Swedish funding for development"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "L" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "IRIS-T SLS SAM version; incl production of components in Sweden"
+}
+,{
+"supplier" : "Switzerland" ,
+"sup_type" : "L" ,
+"weapon_nr" : "25" ,
+"weapon_nr_txt" : "25" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2001" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(25)" ,
+"comments" : "$63-70 m deal (10.5% of components produced in Switzerland)"
+}
+,{
+"supplier" : "Switzerland" ,
+"sup_type" : "L" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "18" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2006" ,
+"deliver_year" : "2008-2009" ,
+"nr_delivered" : "18" ,
+"comments" : "Part of CHF310 m ($240) 'HTLF' programme; EC-635 version (2 more EC-135 ordered for VIP transport); incl for training"
+}
+,{
+"supplier" : "Switzerland" ,
+"sup_type" : "L" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "PiPz-3 Kodiak" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2007" ,
+"deliver_year" : "2009-2011" ,
+"nr_delivered" : "(12)" ,
+"comments" : "CHF95-129 m ($80-105 m) deal"
+}
+,{
+"supplier" : "Taiwan (ROC)" ,
+"sup_type" : "L" ,
+"weapon_nr" : "90" ,
+"weapon_nr_txt" : "90" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2007" ,
+"deliver_year" : "2009-2011" ,
+"nr_delivered" : "(90)" ,
+"comments" : "$149 m deal; for 30 KH-6 FAC produced in Taiwan"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Kiliç" ,
+"weapon_description" : "FAC" ,
+"order_year" : "1993" ,
+"deliver_year" : "1998-2000" ,
+"nr_delivered" : "3" ,
+"comments" : "$250 m deal; 2 produced in Turkey"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MEKO-200T2" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "1994" ,
+"deliver_year" : "1998-2000" ,
+"nr_delivered" : "2" ,
+"comments" : "$525 m deal (incl $95 m aid); 1 assembled/produced in Turkey; Turkish designation Barbaros"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Type-209/1400" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "1998" ,
+"deliver_year" : "2005-2007" ,
+"nr_delivered" : "(4)" ,
+"comments" : "$556 m deal; assembled from kits in Turkey; Turkish designation Gur"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Frankenthal/Type-332" ,
+"weapon_description" : "MCM ship" ,
+"order_year" : "1999" ,
+"deliver_year" : "2005-2010" ,
+"nr_delivered" : "6" ,
+"comments" : "$625 m deal; 5 produced in Turkey; Turkish designation Aydin or Alanya"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Kiliç" ,
+"weapon_description" : "FAC" ,
+"order_year" : "2000" ,
+"deliver_year" : "2005-2008" ,
+"nr_delivered" : "4" ,
+"comments" : "Kiliç-2 version"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Kiliç" ,
+"weapon_description" : "FAC" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "2" ,
+"comments" : "Kiliç-2 version"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "EUR2.2 b deal; delivery 2015-2020"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "L" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Hurst Point" ,
+"weapon_description" : "Cargo ship" ,
+"order_year" : "2000" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "6" ,
+"comments" : "$1.8 b deal (incl 25 years operation by civilian company for UK armed forces); 2 produced in UK; UK designation Hurst Point"
+}
+,{
+"supplier" : "United States" ,
+"sup_type" : "L" ,
+"weapon_nr" : "346" ,
+"weapon_nr_txt" : "(346)" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "2006" ,
+"deliver_year" : "2006-2013" ,
+"nr_delivered" : "(297)" ,
+"comments" : "$3 b 'LUH' programme (incl 20 years support); EC-145 version; US designation UH-72A Lakota"
+}
+,{
+"supplier" : "United States" ,
+"sup_type" : "L" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(5)" ,
+"comments" : "EC-145 version; US designation H-72A"
+}
+,{
+"supplier" : "Albania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "(6)" ,
+"comments" : "Second-hand; aid modernized to Bo-105E4 before delivery"
+}
+,{
+"supplier" : "Algeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "9" ,
+"weapon_nr_txt" : "9" ,
+"weapon_designation" : "MTU-538" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1983)" ,
+"deliver_year" : "1988-2002" ,
+"nr_delivered" : "9" ,
+"comments" : "For 3 Djebel Chenoua FAC produced in Algeria"
+}
+,{
+"supplier" : "Algeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "54" ,
+"weapon_nr_txt" : "54" ,
+"weapon_designation" : "Tpz-1 Fuchs" ,
+"weapon_description" : "APC" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "EUR195 m deal"
+}
+,{
+"supplier" : "Algeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1200" ,
+"weapon_nr_txt" : "(1200)" ,
+"weapon_designation" : "Tpz-1 Fuchs" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2011)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Selected but possibly not yet ordered by end-2013; delivery 2015-2025"
+}
+,{
+"supplier" : "Algeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MEKO-A200" ,
+"weapon_description" : "Frigate" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Possibly option on 2 more; delivery probably from 2017"
+}
+,{
+"supplier" : "Algeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "(12)" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 3 Type-053 (F-22A) frigates from China; designation uncertain (reported as MTU diesel engines)"
+}
+,{
+"supplier" : "Argentina" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "PC-2.5" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1979" ,
+"deliver_year" : "1985-2004" ,
+"nr_delivered" : "12" ,
+"comments" : "For 6 MEKO-140 (Espora) frigates from FRG"
+}
+,{
+"supplier" : "Argentina" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "10" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2012" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(10)" ,
+"comments" : "$26 m deal; status uncertain"
+}
+,{
+"supplier" : "Australia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "259" ,
+"weapon_nr_txt" : "(259)" ,
+"weapon_designation" : "Waran" ,
+"weapon_description" : "APC" ,
+"order_year" : "2002" ,
+"deliver_year" : "2007-2011" ,
+"nr_delivered" : "(259)" ,
+"comments" : "Part of AUD500 m ($280 m) 'Project Land-106 Phase-2'; Australian M-113A1 APC rebuilt to Waran in Australia with kits from FRG; Australian designation M-113AS4; delivery delayed from 2004-2009 to 2007-2011"
+}
+,{
+"supplier" : "Australia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "144" ,
+"weapon_nr_txt" : "(144)" ,
+"weapon_designation" : "DM-702 SMART-155" ,
+"weapon_description" : "Guided shell" ,
+"order_year" : "2007" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "144" ,
+"comments" : "AUD14 m 'JP-2085 Phase-1B' programme"
+}
+,{
+"supplier" : "Australia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MAN-3240" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 BPE (Canberra) AALS/aircraft carriers from Spain"
+}
+,{
+"supplier" : "Australia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "81" ,
+"weapon_nr_txt" : "(81)" ,
+"weapon_designation" : "Waran" ,
+"weapon_description" : "APC" ,
+"order_year" : "2008" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(81)" ,
+"comments" : "Australian M-113A1 APCs rebuilt to Waran; assembled in Australia with kits from FRG; Australian designation M-113AS4"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "112" ,
+"weapon_nr_txt" : "(112)" ,
+"weapon_designation" : "MTU-199" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1999" ,
+"deliver_year" : "2001-2005" ,
+"nr_delivered" : "(112)" ,
+"comments" : "For 112 Ulan (ASCOD) IFV produced in Spain"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Jaguar-1" ,
+"weapon_description" : "Tank destroyer" ,
+"order_year" : "(2002)" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; 27 more for spares only"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "15" ,
+"weapon_designation" : "Typhoon" ,
+"weapon_description" : "FGA aircraft" ,
+"order_year" : "2003" ,
+"deliver_year" : "2007-2009" ,
+"nr_delivered" : "15" ,
+"comments" : "Original order for 18 reduced to 15 for financial reasons"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "20" ,
+"weapon_nr_txt" : "20" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2004" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(20)" ,
+"comments" : "Mainly for use in peace-keeping operations"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "15" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "(15)" ,
+"comments" : "Incl 12 NBC reconnaissance and 3 ambulance version"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "30" ,
+"weapon_nr_txt" : "(30)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "(30)" ,
+"comments" : "$12m deal; for Typhoon combat aircraft"
+}
+,{
+"supplier" : "Austria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "EUR10.5 m deal; ambulance version"
+}
+,{
+"supplier" : "Bangladesh" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "ASO-90" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(1998)" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "1" ,
+"comments" : "For 1 DW-2000H (Bangabandhu) frigate from South Korea"
+}
+,{
+"supplier" : "Bangladesh" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Do-228MP" ,
+"weapon_description" : "MP aircraft" ,
+"order_year" : "2011" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "2" ,
+"comments" : "Do-228-212NG version"
+}
+,{
+"supplier" : "Belgium" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "NF-90 NFH" ,
+"weapon_description" : "ASW helicopter" ,
+"order_year" : "2001" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "1" ,
+"comments" : "Part of EUR300 m deal"
+}
+,{
+"supplier" : "Bolivia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "2" ,
+"comments" : "EC-145 version; incl for VIP transport SAR and anti-narcotics operations"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1994" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 Barroso frigate produced in Brazil"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "7" ,
+"weapon_nr_txt" : "(7)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "7" ,
+"comments" : "Second-hand; part of EUR86 m deal; modernized before delivery"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "BrPz-1 Biber" ,
+"weapon_description" : "ABL" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "4" ,
+"comments" : "Second-hand; part of EUR86 m deal; modernized before delivery"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "220" ,
+"weapon_nr_txt" : "220" ,
+"weapon_designation" : "Leopard-1A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009-2012" ,
+"nr_delivered" : "(220)" ,
+"comments" : "Second-hand but modernized before delivery; part of EUR86 m deal (incl 30 more for spares only)"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Leopard-1 chassis" ,
+"weapon_description" : "Tank chassis" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "(4)" ,
+"comments" : "Second-hand; driver training version; part of EUR86 m deal; modernized before delivery"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "PiPz-2 Dachs" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "4" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "16" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2010" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 4 Scorpene submarines from France"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand but modernized before delivery"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "BrPz-1 Biber" ,
+"weapon_description" : "ABL" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand but modernized before delivery"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MAN-280" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012-2013" ,
+"nr_delivered" : "6" ,
+"comments" : "For 3 VT-90M OPV from UK"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "PiPz-2 Dachs" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Brazil" ,
+"sup_type" : "R" ,
+"weapon_nr" : "34" ,
+"weapon_nr_txt" : "34" ,
+"weapon_designation" : "Gepard" ,
+"weapon_description" : "SPAAG" ,
+"order_year" : "2013" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "8" ,
+"comments" : "Second-hand; EUR37 m deal (incl 3 more for spare parts); delivery 2013-2015"
+}
+,{
+"supplier" : "Brunei" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "FPB-41" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "4" ,
+"comments" : "Bruneian designation Ijhtihad"
+}
+,{
+"supplier" : "Brunei" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "Corvette" ,
+"order_year" : "2007" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "3" ,
+"comments" : "Bruneian designation Darussalam"
+}
+,{
+"supplier" : "Brunei" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Mustead" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "2010" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "1" ,
+"comments" : "From Malaysian production line; Bruneian designation Mustead"
+}
+,{
+"supplier" : "Brunei" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "OPV-80" ,
+"weapon_description" : "Corvette" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Delivery probably 2014"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "121" ,
+"weapon_nr_txt" : "121" ,
+"weapon_designation" : "Leopard-1A5 turret" ,
+"weapon_description" : "Tank turret" ,
+"order_year" : "1996" ,
+"deliver_year" : "1999-2001" ,
+"nr_delivered" : "(121)" ,
+"comments" : "Second-hand; $89-105 m deal; modernized before delivery; for modernization of 114 Canadian Leopard-1 (Leopard C1) tanks to Leopard C2 version; incl 5 for training and 2 as spare turret; 2 more delivered for testing only"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Air refuel system" ,
+"weapon_description" : "Air refuel system" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(2)" ,
+"comments" : "For CAD100 m modification of 2 A-310 (CC-150) transport aircraft to tanker/transport aircraft"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "9" ,
+"weapon_nr_txt" : "9" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2005" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "9" ,
+"comments" : "Owned and operated by civilian company for Canadian armed forces; G-120A-C version"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2007" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; lease; for use in Afghanistan"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2007" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "2" ,
+"comments" : "Owned and operated by civilian company for Canadian armed forces; G-120A-C version"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "20" ,
+"weapon_nr_txt" : "20" ,
+"weapon_designation" : "Leopard-2A6" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2007" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "20" ,
+"comments" : "Second-hand; leased but kept by Canada and replaced by Second-hand Leopard-2A6 bought by Canada for FRG; for use in Afghanistan; Leopard-2A6M version"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2010" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "2" ,
+"comments" : "Owned and operated by civilian company for Canadian armed forces; G-120A-C version"
+}
+,{
+"supplier" : "Canada" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "(8)" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2011" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(4)" ,
+"comments" : "CAD55 m ($54 m) deal; Canadian Leopard-2A4 tanks rebuilt to Buffel ARV; delivery 2013-2014"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1997" ,
+"deliver_year" : "2005-2006" ,
+"nr_delivered" : "8" ,
+"comments" : "For 2 Scorpene submarines from France and Spain"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "24" ,
+"comments" : "For modernization of 2 Saar-4 (Casma) and 4 Type-148 (Tiger or Riquelme) FAC"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "172" ,
+"weapon_nr_txt" : "(172)" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007-2009" ,
+"nr_delivered" : "(172)" ,
+"comments" : "Second-hand; $100-125 m deal; incl 32 originally delivered for spares but taken in service"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "120" ,
+"weapon_nr_txt" : "(120)" ,
+"weapon_designation" : "Marder-1A3" ,
+"weapon_description" : "IFV" ,
+"order_year" : "2008" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(120)" ,
+"comments" : "Second-hand; $47 m deal; modernized before delivery; 50-80 more for spares only"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "10" ,
+"comments" : ""
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "(24)" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(24)" ,
+"comments" : "Second-hand; M-113A2 ambulance version"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "146" ,
+"weapon_nr_txt" : "(146)" ,
+"weapon_designation" : "Marder-1A3" ,
+"weapon_description" : "IFV" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2010-2011" ,
+"nr_delivered" : "(146)" ,
+"comments" : "Second-hand; EUR7.3 m deal; possibly incl some for spares"
+}
+,{
+"supplier" : "Chile" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "PiPz-2 Dachs" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2009" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "(6)" ,
+"comments" : ""
+}
+,{
+"supplier" : "China" ,
+"sup_type" : "R" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1987)" ,
+"deliver_year" : "1994-2005" ,
+"nr_delivered" : "14" ,
+"comments" : "For 4 Luyang 1 Luhai and 2 Luhu destroyers produced in China"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(1)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "CPV-40" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "1" ,
+"comments" : "EUR11 m deal"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "16" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "(8)" ,
+"comments" : "For modernization of 4 FS-1500 (Padilla) frigates"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "30" ,
+"weapon_nr_txt" : "(30)" ,
+"weapon_designation" : "DM-2A3 Seehecht" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "2012" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "(30)" ,
+"comments" : "Second-hand; for Type-206A submarines"
+}
+,{
+"supplier" : "Colombia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-206A" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2012" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; EUR11 m deal"
+}
+,{
+"supplier" : "Czech Republic" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2007" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "4" ,
+"comments" : "CZK135 m ($7.5 m) deal; for use in Afghanistan"
+}
+,{
+"supplier" : "Czech Republic" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "15" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2008" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "15" ,
+"comments" : "Part of CZK998 m ($58 m) deal; for use in Afghanistan"
+}
+,{
+"supplier" : "Czech Republic" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "2" ,
+"comments" : ""
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "1993" ,
+"deliver_year" : "1998-2001" ,
+"nr_delivered" : "3" ,
+"comments" : "For modernization of 3 Niels Juel corvettes"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "51" ,
+"weapon_nr_txt" : "51" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "1997" ,
+"deliver_year" : "2002-2005" ,
+"nr_delivered" : "(51)" ,
+"comments" : "Second-hand; $91 m deal; handed over 1998-2000 but modernized in FRG to Leopard-2A5DK version 2000-2004 mostly before delivery"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "187" ,
+"weapon_nr_txt" : "(187)" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000-2003" ,
+"nr_delivered" : "(187)" ,
+"comments" : "For modernization of 187 M-113 to M-113G"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "ASO-90" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "2" ,
+"comments" : "For 2 Absalon (PSS) frigates/support ships produced in Denmark"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 Absalon (FSS) frigates/support ships produced in Denmark"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "70" ,
+"weapon_nr_txt" : "(70)" ,
+"weapon_designation" : "Waran" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(70)" ,
+"comments" : "Danish M-113A1 APC rebuilt to Waran; Danish designation M-113G3L"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "ASO-90" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(2006)" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "1" ,
+"comments" : "For 3 Huitfeldt (PS) frigates produced in Denmark; ASO-94 version"
+}
+,{
+"supplier" : "Denmark" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2006)" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "4" ,
+"comments" : "For 3 Huitfeldt (PS) frigates produced in Denmark"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "74" ,
+"weapon_nr_txt" : "74" ,
+"weapon_designation" : "G-115" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2000" ,
+"deliver_year" : "2000-2002" ,
+"nr_delivered" : "(74)" ,
+"comments" : "G-115EG version"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "Combattante-2" ,
+"weapon_description" : "FAC" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "5" ,
+"comments" : "Second-hand Type-148 or Tiger; EUR18 m deal"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Lueneburg" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Westerwald" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2006" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(2)" ,
+"comments" : "For 3 Ambassador-4 corvettes from USA"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 1 Ambassador-4 corvette from USA"
+}
+,{
+"supplier" : "Egypt" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-209/1500" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Delivery probably from 2016"
+}
+,{
+"supplier" : "Estonia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Lindau/Type-320" ,
+"weapon_description" : "Minesweeper" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; aid; Estonian designation Wambola"
+}
+,{
+"supplier" : "Estonia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "FH-70 155mm" ,
+"weapon_description" : "Towed gun" ,
+"order_year" : "2003" ,
+"deliver_year" : "2003-2005" ,
+"nr_delivered" : "24" ,
+"comments" : "Second-hand; EUR7 m deal"
+}
+,{
+"supplier" : "Estonia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "200" ,
+"weapon_nr_txt" : "(200)" ,
+"weapon_designation" : "MILAN" ,
+"weapon_description" : "Anti-tank missile" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(200)" ,
+"comments" : "Second-hand; EUR7.5 m deal"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MTU-538" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1996)" ,
+"deliver_year" : "1998-2006" ,
+"nr_delivered" : "8" ,
+"comments" : "For 4 Hamina FAC produced in Finland"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "16" ,
+"weapon_designation" : "ASRAD" ,
+"weapon_description" : "Mobile SAM system" ,
+"order_year" : "2002" ,
+"deliver_year" : "2005-2007" ,
+"nr_delivered" : "(16)" ,
+"comments" : "Part of EUR135 m deal"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "124" ,
+"weapon_nr_txt" : "124" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "124" ,
+"comments" : "Second-hand; $66 m deal"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "2005-2006" ,
+"nr_delivered" : "(4)" ,
+"comments" : "For 4 Hamina FAC produced in Finland"
+}
+,{
+"supplier" : "Finland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "SQS-12" ,
+"weapon_description" : "MCM sonar" ,
+"order_year" : "2006" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "1" ,
+"comments" : "For 3 Gaeta MCM ships from Italy"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "LA-6" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(5)" ,
+"comments" : "For 5 CAESAR self-propelled guns produced in France"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "CL-289" ,
+"weapon_description" : "UAV" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002" ,
+"nr_delivered" : "12" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "160" ,
+"weapon_nr_txt" : "160" ,
+"weapon_designation" : "MTU-199" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "2006-2009" ,
+"nr_delivered" : "(160)" ,
+"comments" : "For modernization of 160 ERC-90 armoured cars"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "44" ,
+"weapon_nr_txt" : "(44)" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "4" ,
+"comments" : "For 11 Aquitaine (FREMM) frigates produced in France"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "18" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "18" ,
+"comments" : "Owned and operated by civilian company for French air force; G-120A-F version"
+}
+,{
+"supplier" : "France" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "(15)" ,
+"weapon_designation" : "OM-924" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2009" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "(15)" ,
+"comments" : "For 15 Aravis APC produced in France"
+}
+,{
+"supplier" : "Gabon" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "(2)" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "(2)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Ghana" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-143" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "2010" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; $38 m deal; FAC modified to patrol craft and modernized before delivery"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "TRS-3220 Pollux" ,
+"weapon_description" : "Fire control radar" ,
+"order_year" : "(1986)" ,
+"deliver_year" : "1994-2000" ,
+"nr_delivered" : "(5)" ,
+"comments" : "For 5 Jason landing ships produced in Greece; probably Second-hand but modernized before delivery"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "170" ,
+"weapon_nr_txt" : "(170)" ,
+"weapon_designation" : "Leopard-1A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "1997" ,
+"deliver_year" : "1998-2000" ,
+"nr_delivered" : "(170)" ,
+"comments" : "Second-hand; offsets for Greek order for modernization of F-4E combat aircraft in FRG"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "50" ,
+"weapon_nr_txt" : "50" ,
+"weapon_designation" : "M-109A5 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "50" ,
+"comments" : "Second-hand; M-109GEA version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "54" ,
+"weapon_nr_txt" : "54" ,
+"weapon_designation" : "ASRAD" ,
+"weapon_description" : "Mobile SAM system" ,
+"order_year" : "2000" ,
+"deliver_year" : "2004-2007" ,
+"nr_delivered" : "(54)" ,
+"comments" : "$134 m deal"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Combattante-2" ,
+"weapon_description" : "FAC" ,
+"order_year" : "2000" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; part of deal for 3 Type-214 submarines"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2005-2006" ,
+"nr_delivered" : "12" ,
+"comments" : "For 3 Super Vita (Roussen) FAC from UK; MTU-16V-595 version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "20" ,
+"weapon_nr_txt" : "20" ,
+"weapon_designation" : "BOR-A550" ,
+"weapon_description" : "Air/ground surv radar" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(20)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "PzH-2000 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "2001" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(24)" ,
+"comments" : "Part of $164-228 m deal (offsets 120% and 114 Second-hand M-109 guns); PzH-2000GR version; option on 12 more"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "28" ,
+"weapon_nr_txt" : "28" ,
+"weapon_designation" : "PzH-2000 ALV" ,
+"weapon_description" : "ALV" ,
+"order_year" : "2001" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(28)" ,
+"comments" : "Part of $164-228 m deal (offsets 120% and 114 Second-hand M-109 guns); incl 24 ammunition carrier and 4 ammunition loader version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1000" ,
+"weapon_nr_txt" : "(1000)" ,
+"weapon_designation" : "DM-702 SMART-155" ,
+"weapon_description" : "Guided shell" ,
+"order_year" : "(2002)" ,
+"deliver_year" : "2003-2006" ,
+"nr_delivered" : "(1000)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Type-209/1200" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2002" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Greek Type-209/1200 (Poseidon) submarine rebuilt to new version; order for 2 more cancelled and replaced by order for 2 new Type-214; status uncertain"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "82" ,
+"weapon_nr_txt" : "82" ,
+"weapon_designation" : "Leopard-1A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2003" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "82" ,
+"comments" : "Second-hand; offsets for order for 170 Leopard-2A6 tanks"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "114" ,
+"weapon_nr_txt" : "114" ,
+"weapon_designation" : "M-109A5 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "2003" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "(114)" ,
+"comments" : "Second-hand; M-109A3GEA version; offsets for Greek order for 24 PzH-2000 self-propelled guns"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2003" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 Super Vita (Rousen) FAC from UK; MTU-16V-595 version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "100" ,
+"weapon_nr_txt" : "(100)" ,
+"weapon_designation" : "RIM-116A RAM" ,
+"weapon_description" : "SAM" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2005-2006" ,
+"nr_delivered" : "(100)" ,
+"comments" : "Part of $25 m deal; for Super Vita (Rousen) FAC"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "70" ,
+"weapon_nr_txt" : "(70)" ,
+"weapon_designation" : "RIM-116A RAM" ,
+"weapon_description" : "SAM" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "(35)" ,
+"comments" : "For Super Vita (Roussen) FAC"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "(4)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2005" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "(4)" ,
+"comments" : "Second-hand; part of EUR270 m ($333 m) deal"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "10" ,
+"weapon_designation" : "BrPz-1 Biber" ,
+"weapon_description" : "ABL" ,
+"order_year" : "2005" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "(10)" ,
+"comments" : "Second-hand; part of EUR270 m ($333 m) deal"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "150" ,
+"weapon_nr_txt" : "150" ,
+"weapon_designation" : "Leopard-1A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2005" ,
+"deliver_year" : "2006-2007" ,
+"nr_delivered" : "150" ,
+"comments" : "Second-hand; gift as part of order for new and Second-hand Leopard-2 tanks"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "183" ,
+"weapon_nr_txt" : "183" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2005" ,
+"deliver_year" : "2005-2007" ,
+"nr_delivered" : "183" ,
+"comments" : "Second-hand; part of EUR420 m deal (Incl EUR150 m for modernization of 130 in FRG and 53 in Greece)"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "223" ,
+"weapon_nr_txt" : "223" ,
+"weapon_designation" : "M-109A5 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "223" ,
+"comments" : "Second-hand; EUR10 m deal; M-109A3GEA2 version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 Super Vita (Roussen) FAC from UK; MTU-16V-595 version"
+}
+,{
+"supplier" : "Greece" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "15" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "2012" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "15" ,
+"comments" : "Second-hand; M-577 version; EUR0.1 m deal"
+}
+,{
+"supplier" : "Hungary" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Mi-24P/Hind-F" ,
+"weapon_description" : "Combat helicopter" ,
+"order_year" : "1995" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "2" ,
+"comments" : "Former GDR equipment (but almost not used by GDR) taken over by FRG; aid; stored by Hungary 1995-2003 and delivered to armed forces 2004 (4 more delivered but kept in storage)"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "155" ,
+"weapon_nr_txt" : "(155)" ,
+"weapon_designation" : "MTU-838" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1990)" ,
+"deliver_year" : "2009-2012" ,
+"nr_delivered" : "(155)" ,
+"comments" : "For 124 Arjun tanks produced in India (incl spare engines)"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "MAN V6" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2005" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 6 Scorpene submarines from France"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2006" ,
+"deliver_year" : "2010-2013" ,
+"nr_delivered" : "6" ,
+"comments" : "MTU-20V-8000 version; for 3 Vishwast OPV produced in India"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MAN-8L-48" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 Deepak support ships from Italy"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MAN-8L-48" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 Deepak support ship from Italy"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "124" ,
+"weapon_nr_txt" : "(124)" ,
+"weapon_designation" : "MTU-838" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 124 Arjun tanks produced in India"
+}
+,{
+"supplier" : "India" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "(4)" ,
+"weapon_designation" : "BR-710" ,
+"weapon_description" : "Turbofan" ,
+"order_year" : "(2011)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 Global-5000 AGS aircraft from Canada and Israel"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "TBD-620" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2000-2005" ,
+"nr_delivered" : "(12)" ,
+"comments" : "For modernization of 6 Parchim (Patimura) corvettes"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2000-2005" ,
+"nr_delivered" : "(12)" ,
+"comments" : "For modernization of 6 Parchim (Patimura) corvettes"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "72" ,
+"weapon_nr_txt" : "(72)" ,
+"weapon_designation" : "MAN V12" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(12)" ,
+"comments" : "For 24 KCR-40 FAC produced in Indonesia"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "18" ,
+"weapon_designation" : "G-120TP" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2011" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(10)" ,
+"comments" : "$72 m deal; delivery 2013-2014"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "11" ,
+"weapon_nr_txt" : "(11)" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; possibly including ABL and/or AEV"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "61" ,
+"weapon_nr_txt" : "61" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand but modernized to Leopard-2RI before delivery; delivery 2014"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "42" ,
+"weapon_nr_txt" : "42" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2012" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(2)" ,
+"comments" : "Second-hand; delivery 2013-2014"
+}
+,{
+"supplier" : "Indonesia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "42" ,
+"weapon_nr_txt" : "42" ,
+"weapon_designation" : "Marder-1A3" ,
+"weapon_description" : "IFV" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(2)" ,
+"comments" : "Second-hand; delivery 2013-2014"
+}
+,{
+"supplier" : "Iraq" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2009" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "24" ,
+"comments" : "EUR360 m deal; armed EC-635 version; ordered via France"
+}
+,{
+"supplier" : "Ireland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "65" ,
+"weapon_nr_txt" : "65" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1999" ,
+"deliver_year" : "2001-2004" ,
+"nr_delivered" : "65" ,
+"comments" : "For 65 Piranha-3H APC from Switzerland"
+}
+,{
+"supplier" : "Ireland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2005" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "2" ,
+"comments" : "Incl for training; EC-135P-2 version"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "32" ,
+"weapon_nr_txt" : "(32)" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1988)" ,
+"deliver_year" : "1991-2002" ,
+"nr_delivered" : "(32)" ,
+"comments" : "For 6 Saar-4.5 (Hetz) FAC produced in Israel and for 2 Saar-4 (Reshef) modernized to Saar-4.5; incl MTU-538 version"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Dolphin/Type-800" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "1994" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "1" ,
+"comments" : "$300 m deal (50% financed by FRG)"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "30" ,
+"weapon_nr_txt" : "(30)" ,
+"weapon_designation" : "DM-2A3 Seehecht" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000-2002" ,
+"nr_delivered" : "(30)" ,
+"comments" : "$65 m deal (financed by US 'FMF' aid); from US production line (to allow funding under 'FMF'); for Dolphin submarines"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "790" ,
+"weapon_nr_txt" : "(790)" ,
+"weapon_designation" : "MTU-883" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2002-2013" ,
+"nr_delivered" : "(585)" ,
+"comments" : "For Merkava-4 tanks and Namer APC produced in Israel; assembled in USA from components produced in FRG"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "17" ,
+"weapon_nr_txt" : "17" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(17)" ,
+"comments" : "Owned and operated by civilian company for Israeli armed forces; G-120A-I version; Israeli designation Snunit"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "128" ,
+"weapon_nr_txt" : "128" ,
+"weapon_designation" : "MIM-104A Patriot" ,
+"weapon_description" : "SAM" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "128" ,
+"comments" : "Second-hand; 2-year loan in reaction to possible war in Middle East"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Patriot" ,
+"weapon_description" : "SAM system" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; 2-year loan in reaction to possible war in Middle East"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "BR-710" ,
+"weapon_description" : "Turbofan" ,
+"order_year" : "2003" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 G-550 AEW aircraft from USA"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Stollergrund" ,
+"weapon_description" : "Support craft" ,
+"order_year" : "2005" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; Israeli designation Bat Yam"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Dolphin/Type-800" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2006" ,
+"deliver_year" : "2012-2013" ,
+"nr_delivered" : "2" ,
+"comments" : "EUR1 b deal (33% financed by FRG)"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Patriot" ,
+"weapon_description" : "SAM system" ,
+"order_year" : "2011" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; loan"
+}
+,{
+"supplier" : "Israel" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Dolphin/Type-800" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "EUR405 m deal (33% financed by FRG)"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "ISUS-90" ,
+"weapon_description" : "Sonar" ,
+"order_year" : "(1998)" ,
+"deliver_year" : "2001-2004" ,
+"nr_delivered" : "(4)" ,
+"comments" : "For modernization of 4 Pelosi submarines"
+}
+,{
+"supplier" : "Italy" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "(4)" ,
+"weapon_designation" : "BR-710" ,
+"weapon_description" : "Turbofan" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 G-550 AEW aircraft from Italy"
+}
+,{
+"supplier" : "Japan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "(15)" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2009" ,
+"deliver_year" : "2009-2013" ,
+"nr_delivered" : "(11)" ,
+"comments" : "For training; Japanese designation TH-135; delivery 2009-2017"
+}
+,{
+"supplier" : "Jordan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2003" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "6" ,
+"comments" : "EC-635T-1 version; for border patrol"
+}
+,{
+"supplier" : "Jordan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2006-2007" ,
+"nr_delivered" : "(4)" ,
+"comments" : "EC-635T-1 version; for border patrol and VIP transport"
+}
+,{
+"supplier" : "Kazakhstan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "(12)" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "2010" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(4)" ,
+"comments" : "EC-145 version; assembled in Kazakhstan as KH-145 (more delivered to non-military government agencies); delivery 2011-2016"
+}
+,{
+"supplier" : "Kazakhstan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 Project-20970 (Katran) FAC from Russia"
+}
+,{
+"supplier" : "Kenya" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2012" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 Jasiri OPV from Spain"
+}
+,{
+"supplier" : "Kenya" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "G-120" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2013" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "6" ,
+"comments" : "G-120A-K version; option on 6 more"
+}
+,{
+"supplier" : "Kuwait" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "16" ,
+"weapon_designation" : "MTU-538" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "1999-2000" ,
+"nr_delivered" : "16" ,
+"comments" : "For 8 P-37BRL (Combattante-1 or Um Almaradim) FAC from France"
+}
+,{
+"supplier" : "Kuwait" ,
+"sup_type" : "R" ,
+"weapon_nr" : "54" ,
+"weapon_nr_txt" : "(54)" ,
+"weapon_designation" : "BF-12L413" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1998" ,
+"deliver_year" : "2000-2001" ,
+"nr_delivered" : "(54)" ,
+"comments" : "For 27 PLZ-45 self propelled guns and 27 PCV-45 ALV from China from Chinese production line"
+}
+,{
+"supplier" : "Kuwait" ,
+"sup_type" : "R" ,
+"weapon_nr" : "48" ,
+"weapon_nr_txt" : "(48)" ,
+"weapon_designation" : "BF-12L413" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2001" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(48)" ,
+"comments" : "For 24 PLZ-45 self propelled guns and 24 PCV-45 ALV from China; from Chinese production line"
+}
+,{
+"supplier" : "Kuwait" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "Condor" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "8" ,
+"comments" : "For National Guard; Condor-2 version"
+}
+,{
+"supplier" : "Lebanon" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Bremen-2" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "2007" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Lebanon" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Totendorf" ,
+"weapon_description" : "Patrol craft" ,
+"order_year" : "2008" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; aid"
+}
+,{
+"supplier" : "Lesotho" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "2" ,
+"comments" : "Bo-105LSA-3 version"
+}
+,{
+"supplier" : "Lesotho" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "1" ,
+"comments" : ""
+}
+,{
+"supplier" : "Lithuania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Lindau/Type-320" ,
+"weapon_description" : "Minesweeper" ,
+"order_year" : "1999" ,
+"deliver_year" : "1999-2001" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; aid; Lithuanian designation Sduvis Class"
+}
+,{
+"supplier" : "Lithuania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "49" ,
+"weapon_nr_txt" : "49" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "2000" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "49" ,
+"comments" : "Second-hand; M-113A1 version; aid; 18 more for spares only"
+}
+,{
+"supplier" : "Lithuania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "158" ,
+"weapon_nr_txt" : "(158)" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2002)" ,
+"deliver_year" : "2002-2006" ,
+"nr_delivered" : "(158)" ,
+"comments" : "Second-hand; aid; M-113A1 version; 12 more for spares only; no. could be up to around 270"
+}
+,{
+"supplier" : "Lithuania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "TRML-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2002" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "3" ,
+"comments" : ""
+}
+,{
+"supplier" : "Lithuania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "32" ,
+"weapon_nr_txt" : "32" ,
+"weapon_designation" : "M-106" ,
+"weapon_description" : "Self-propelled mortar" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2005-2006" ,
+"nr_delivered" : "(32)" ,
+"comments" : "Second-hand; aid; version with 120mm mortar"
+}
+,{
+"supplier" : "Luxembourg" ,
+"sup_type" : "R" ,
+"weapon_nr" : "48" ,
+"weapon_nr_txt" : "48" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2008" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(48)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Macedonia (FYROM)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "115" ,
+"weapon_nr_txt" : "(115)" ,
+"weapon_designation" : "TM-170 Hermelin" ,
+"weapon_description" : "APC" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "(115)" ,
+"comments" : "Second-hand; aid"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "D-2848" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "(5)" ,
+"comments" : "For modernization of 5 K-200 KIFV APC to K-200A1 version; from South Korean production line"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MAN V6" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2002" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "8" ,
+"comments" : "For 2 Scorpene submarines from France and Spain"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "32" ,
+"weapon_nr_txt" : "32" ,
+"weapon_designation" : "D-2848" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2004" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(32)" ,
+"comments" : "Part of $10 m deal for modernization of 32 K-200 KIFV APC to K-200A1; from South Korean production line"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "TRML-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2005" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "(2)" ,
+"comments" : "EUR18-20 m deal; option on 8 more"
+}
+,{
+"supplier" : "Malaysia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "257" ,
+"weapon_nr_txt" : "(257)" ,
+"weapon_designation" : "BFM-2015" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2010" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 257 Pars APC and IFV from Turkey"
+}
+,{
+"supplier" : "Mauritania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Arguin" ,
+"weapon_description" : "OPV" ,
+"order_year" : "1998" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "1" ,
+"comments" : ""
+}
+,{
+"supplier" : "Mauritius" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 1 Barracuda OPV from India"
+}
+,{
+"supplier" : "Morocco" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2008" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 1 FREMM frigate from France"
+}
+,{
+"supplier" : "Myanmar" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "BF6M" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(10)" ,
+"comments" : "For 10 BTR-3U IFV from Ukraine; status uncertain"
+}
+,{
+"supplier" : "NATO**" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Boeing-707" ,
+"weapon_description" : "Transport aircraft" ,
+"order_year" : "1998" ,
+"deliver_year" : "1999-2001" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand; for use as trainer/transport aircraft for NATO AEW aircraft unit"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "DSQS-24" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "2002-2005" ,
+"nr_delivered" : "4" ,
+"comments" : "For 4 De Zeven Provincien frigates produced in Netherlands; DSQS-24C version"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Patriot" ,
+"weapon_description" : "SAM system" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(3)" ,
+"comments" : "Second-hand; part of $79 m deal (incl $42 m cash and $27 m in services)"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Tpz-1 Fuchs" ,
+"weapon_description" : "APC" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003-2007" ,
+"nr_delivered" : "(6)" ,
+"comments" : "NBC reconnaissance version"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "46" ,
+"weapon_nr_txt" : "46" ,
+"weapon_designation" : "MIM-104C PAC-2" ,
+"weapon_description" : "SAM" ,
+"order_year" : "2003" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "46" ,
+"comments" : "Second-hand; part of $79 m deal (incl $42 m cash and $27 m in services); Patriot GEM version"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "TRML-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2004" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "(3)" ,
+"comments" : "EUR35 m ($44 m) 'FGBADS Phase-1' programme"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "200" ,
+"weapon_nr_txt" : "(200)" ,
+"weapon_designation" : "MTU-199" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2006)" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(13)" ,
+"comments" : "For Boxer APC produced in Netherlands; assembled in Netherlands"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "TRML-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2006" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "(2)" ,
+"comments" : "Part of 'FGBADS Phase-2' programme"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "MAN-12V" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(8)" ,
+"comments" : "For 2 Holland OPV produced in Netherlands and 2 from Romania"
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "10" ,
+"weapon_designation" : "PiPz-3 Kodiak" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2008" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(10)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Netherlands" ,
+"sup_type" : "R" ,
+"weapon_nr" : "41" ,
+"weapon_nr_txt" : "41" ,
+"weapon_designation" : "MIM-104C PAC-2" ,
+"weapon_description" : "SAM" ,
+"order_year" : "2013" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "41" ,
+"comments" : "Second-hand; 1-year loan for use with Dutch Patriot SAM systems stationed in Turkey"
+}
+,{
+"supplier" : "New Zealand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MAN-280" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2004" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 Tenix-1600 (Otago) OPV from Australia"
+}
+,{
+"supplier" : "Nigeria" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 2 P18N OPV from China"
+}
+,{
+"supplier" : "Norway" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2010-2013" ,
+"nr_delivered" : "(12)" ,
+"comments" : "For 6 Skjold FAC produced in Norway"
+}
+,{
+"supplier" : "Norway" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2005" ,
+"deliver_year" : "2007-2008" ,
+"nr_delivered" : "(4)" ,
+"comments" : "$12.2 m or $25 m deal; for modernization of 4 coast guard Svalbard and Nordkapp OPV"
+}
+,{
+"supplier" : "Norway" ,
+"sup_type" : "R" ,
+"weapon_nr" : "20" ,
+"weapon_nr_txt" : "20" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "2010" ,
+"deliver_year" : "2010-2012" ,
+"nr_delivered" : "(20)" ,
+"comments" : "For use in Afghanistan"
+}
+,{
+"supplier" : "Oman" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2007" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "4" ,
+"comments" : "For 3 Al Shamikh (Khareef) frigates from UK"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "6" ,
+"comments" : "For 2 Jurrat FAC from Thailand"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "59" ,
+"weapon_nr_txt" : "59" ,
+"weapon_designation" : "DM-2A4 Seehecht" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "2005" ,
+"deliver_year" : "2007-2008" ,
+"nr_delivered" : "(59)" ,
+"comments" : "$80 m deal; for Agosta-90B (Khalid) submarines"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "DSQS-23" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "3" ,
+"comments" : "For 4 F-22 (Zulfiquar) frigates from China"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "30" ,
+"weapon_nr_txt" : "(30)" ,
+"weapon_designation" : "Luna" ,
+"weapon_description" : "UAV" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007-2008" ,
+"nr_delivered" : "(30)" ,
+"comments" : "For 3 Luna UAV systems; delivery temporarily delayed after Pakistani state of emergency in 2007"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007-2008" ,
+"nr_delivered" : "4" ,
+"comments" : "For MRTP-33 FAC from Turkey"
+}
+,{
+"supplier" : "Pakistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "Dingo-2" ,
+"weapon_description" : "APC" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "10" ,
+"comments" : ""
+}
+,{
+"supplier" : "Panama" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "2008" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "1" ,
+"comments" : "Possibly second-hand; part of $14 m deal (financed by Taiwan); supplier may be USA; for police"
+}
+,{
+"supplier" : "Peru" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "12" ,
+"comments" : "For modernization of 3 PR-72P (Velarde) FAC"
+}
+,{
+"supplier" : "Peru" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "SUT" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "2008" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "(12)" ,
+"comments" : "$21 m deal; for Type-209 (Islay) submarines"
+}
+,{
+"supplier" : "Philippines" ,
+"sup_type" : "R" ,
+"weapon_nr" : "5" ,
+"weapon_nr_txt" : "5" ,
+"weapon_designation" : "Bell-205/UH-1D" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "(2013)" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "5" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "AL-21" ,
+"weapon_description" : "Turbojet" ,
+"order_year" : "(2002)" ,
+"deliver_year" : "2002" ,
+"nr_delivered" : "(10)" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(10)" ,
+"comments" : "Second-hand; part of aid worth $300-380 m; for Polish brigade operating as part of FRG division"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "BrPz-1 Biber" ,
+"weapon_description" : "ABL" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(6)" ,
+"comments" : "Second-hand; part of $300-380 m aid; for Polish brigade operating as part of FRG division"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Keiler" ,
+"weapon_description" : "AMV" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(4)" ,
+"comments" : "Second-hand; part of aid worth $300-380 m; for Polish brigade operating as part of FRG division"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "128" ,
+"weapon_nr_txt" : "128" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(128)" ,
+"comments" : "Second-hand; part of aid worth $300-380 m; for Polish brigade operating as part of FRG division"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "35" ,
+"weapon_nr_txt" : "35" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(35)" ,
+"comments" : "Second-hand; part of $300-380 m deal; aid; incl 16 ambulance and 19 M-577 CP version; for Polish brigade operating as part of FRG division"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "MiG-29S/Fulcrum-C" ,
+"weapon_description" : "FGA aircraft" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(14)" ,
+"comments" : "Second-hand; aid; MiG-29G version; incl MiG-29GT version; 8 more delivered for spare parts"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "50" ,
+"weapon_nr_txt" : "(50)" ,
+"weapon_designation" : "R-27/AA-10 Alamo" ,
+"weapon_description" : "BVRAAM" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(50)" ,
+"comments" : "Second-hand; aid; for MiG-29 combat aircraft"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "150" ,
+"weapon_nr_txt" : "(150)" ,
+"weapon_designation" : "R-60/AA-8 Aphid" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(150)" ,
+"comments" : "Second-hand; aid; for MiG-29 combat aircraft"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "310" ,
+"weapon_nr_txt" : "(310)" ,
+"weapon_designation" : "R-73/AA-11 Archer" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2002" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "(310)" ,
+"comments" : "Second-hand; aid; for MiG-29 combat aircraft"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "64" ,
+"weapon_nr_txt" : "(64)" ,
+"weapon_designation" : "MTU-881" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2012)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 64 Krab self-propelled gun produced in Poland; selected but probably not yet ordered"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "(18)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; part of EUR200 m deal; delivery 2014-2015"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; part of EUR 180m deal"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "105" ,
+"weapon_nr_txt" : "105" ,
+"weapon_designation" : "Leopard-2A5" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; part of EUR 180m deal; delivery 2014-15"
+}
+,{
+"supplier" : "Poland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "35" ,
+"weapon_nr_txt" : "(35)" ,
+"weapon_designation" : "M-113" ,
+"weapon_description" : "APC" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; part of EUR200 m deal; command post and ambulance version; selected but not yet ordered"
+}
+,{
+"supplier" : "Portugal" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-214" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2004" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "2" ,
+"comments" : "EUR846 m deal (offsets 100%; option on 1 more not used); Type-209PN version"
+}
+,{
+"supplier" : "Qatar" ,
+"sup_type" : "R" ,
+"weapon_nr" : "62" ,
+"weapon_nr_txt" : "62" ,
+"weapon_designation" : "Leopard-2A6" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Part of EUR1.9 b deal; Leopard-2A7 version; delivery 2015-2018"
+}
+,{
+"supplier" : "Qatar" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "PzH-2000 155mm" ,
+"weapon_description" : "Self-propelled gun" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Part of EUR1.9 b deal; delivery 2015-2018"
+}
+,{
+"supplier" : "Romania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "36" ,
+"weapon_nr_txt" : "(36)" ,
+"weapon_designation" : "Gepard" ,
+"weapon_description" : "SPAAG" ,
+"order_year" : "1998" ,
+"deliver_year" : "2004-2009" ,
+"nr_delivered" : "(36)" ,
+"comments" : "Second-hand; $37 m aid; modernized before delivery; 7 more for spares only"
+}
+,{
+"supplier" : "Romania" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "(3)" ,
+"weapon_designation" : "BPz-2" ,
+"weapon_description" : "ARV" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "3" ,
+"comments" : "Second-hand; designation uncertain (reported as armoured recovery vehicle)"
+}
+,{
+"supplier" : "Russia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "(2)" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 Scorpion (Project-12300) FAC produced in Russia"
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "100" ,
+"weapon_nr_txt" : "(100)" ,
+"weapon_designation" : "Deutz V-10" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "1998-2005" ,
+"nr_delivered" : "(100)" ,
+"comments" : "For 100 AF-40-8-1 APC produced in Saudi Arabia"
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "54" ,
+"weapon_nr_txt" : "(54)" ,
+"weapon_designation" : "BF-12L413" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2008-2009" ,
+"nr_delivered" : "(54)" ,
+"comments" : "For 54 PLZ-45 self propelled guns from China; from Chinese production line"
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1400" ,
+"weapon_nr_txt" : "(1400)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2009" ,
+"deliver_year" : "2010-2013" ,
+"nr_delivered" : "(1100)" ,
+"comments" : "For Tornado and Typhoon combat aircraft"
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "Luna" ,
+"weapon_description" : "UAV" ,
+"order_year" : "2010" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(10)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "73" ,
+"weapon_nr_txt" : "(73)" ,
+"weapon_designation" : "OM-924" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2011" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(25)" ,
+"comments" : "For 73 Aravis APC from France"
+}
+,{
+"supplier" : "Saudi Arabia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "191" ,
+"weapon_nr_txt" : "(191)" ,
+"weapon_designation" : "OM-924" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 191 Aravis APC from France"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "24" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2007-2009" ,
+"nr_delivered" : "24" ,
+"comments" : "For 6 La Fayette (Formidable) frigates from France; MTU-8000-M90 version"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "(8)" ,
+"weapon_designation" : "BR-710" ,
+"weapon_description" : "Turbofan" ,
+"order_year" : "2007" ,
+"deliver_year" : "2009-2011" ,
+"nr_delivered" : "(8)" ,
+"comments" : "For 4 G-550 AEW aircraft from USA and Israel"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "182" ,
+"weapon_nr_txt" : "(182)" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2007" ,
+"deliver_year" : "2007-2012" ,
+"nr_delivered" : "(182)" ,
+"comments" : "Second-hand but modernized before delivery (possibly incl some for spares only)"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2010-2011" ,
+"nr_delivered" : "(10)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "PSB-2" ,
+"weapon_description" : "ABL" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Probably second-hand but modernized before delivery or second-hand Leopard-2 tanks modified to ABL"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "(16)" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 8 LMV corvettes produced in Singapore"
+}
+,{
+"supplier" : "Singapore" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Type-218" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Type-218SG version; delivery from 2020"
+}
+,{
+"supplier" : "Slovenia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Roland" ,
+"weapon_description" : "Mobile SAM system" ,
+"order_year" : "2000" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "6" ,
+"comments" : "Second-hand; part of $12 m aid; shelter-based version"
+}
+,{
+"supplier" : "Slovenia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "120" ,
+"weapon_nr_txt" : "(120)" ,
+"weapon_designation" : "Roland-2" ,
+"weapon_description" : "SAM" ,
+"order_year" : "2000" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "(120)" ,
+"comments" : "Second-hand; part of $12 m aid"
+}
+,{
+"supplier" : "South Africa" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Lindau/Type-320" ,
+"weapon_description" : "Minesweeper" ,
+"order_year" : "2000" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "4" ,
+"comments" : "Second-hand; aid; 2 more delivered for spares only"
+}
+,{
+"supplier" : "South Africa" ,
+"sup_type" : "R" ,
+"weapon_nr" : "80" ,
+"weapon_nr_txt" : "(80)" ,
+"weapon_designation" : "SUT" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2006-2008" ,
+"nr_delivered" : "(80)" ,
+"comments" : "For Type-209 (Heroine) submarines; SUT-264 version"
+}
+,{
+"supplier" : "South Africa" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "Type-209/1400MOD" ,
+"weapon_description" : "Submarine" ,
+"order_year" : "2000" ,
+"deliver_year" : "2005-2008" ,
+"nr_delivered" : "3" ,
+"comments" : "EUR748 m ($875 m) deal (offsets 375-430%); South African designation Heroine"
+}
+,{
+"supplier" : "South Africa" ,
+"sup_type" : "R" ,
+"weapon_nr" : "25" ,
+"weapon_nr_txt" : "(25)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2008" ,
+"deliver_year" : "2009" ,
+"nr_delivered" : "(25)" ,
+"comments" : "For JAS-39 combat aircraft; interim solution until South African development of Darter-A AAM finished"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1900" ,
+"weapon_nr_txt" : "(1900)" ,
+"weapon_designation" : "D-2848" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1984)" ,
+"deliver_year" : "1985-2004" ,
+"nr_delivered" : "(1700)" ,
+"comments" : "For some 1700 K-200 KIFV APC and 176 K-30 SPAAG produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "250" ,
+"weapon_nr_txt" : "(250)" ,
+"weapon_designation" : "SUT" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "(1987)" ,
+"deliver_year" : "1993-2001" ,
+"nr_delivered" : "(250)" ,
+"comments" : "For Type-209 (Chang Bogo) submarines; SUT Mod-2 version"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "DSQS-21" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(1993)" ,
+"deliver_year" : "1998-2000" ,
+"nr_delivered" : "3" ,
+"comments" : "For 3 KDX-1 (Kwanggaeto the Great) frigates produced in South Korea; DSQS-21BZ version"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MTU-956" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1993)" ,
+"deliver_year" : "1998-2000" ,
+"nr_delivered" : "6" ,
+"comments" : "For 3 KDX-1 (Kwanggaeto the Great) frigates produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1306" ,
+"weapon_nr_txt" : "(1306)" ,
+"weapon_designation" : "MTU-881" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1998)" ,
+"deliver_year" : "1999-2013" ,
+"nr_delivered" : "(760)" ,
+"comments" : "For K-9 self-propelled guns and K-10 ALV produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "DSQS-23" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2003-2005" ,
+"nr_delivered" : "3" ,
+"comments" : "For 3 KDX-2 frigates produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "MTU-956" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2003-2005" ,
+"nr_delivered" : "6" ,
+"comments" : "For 3 KDX-2 frigates produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "48" ,
+"weapon_nr_txt" : "(48)" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2008-2013" ,
+"nr_delivered" : "(24)" ,
+"comments" : "For 24 Gumdoksuri (PKX or PKG-A) FAC produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "400" ,
+"weapon_nr_txt" : "(400)" ,
+"weapon_designation" : "MIM-104A Patriot" ,
+"weapon_description" : "SAM" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2008-2012" ,
+"nr_delivered" : "(400)" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "(8)" ,
+"weapon_designation" : "Patriot" ,
+"weapon_description" : "SAM system" ,
+"order_year" : "(2007)" ,
+"deliver_year" : "2008-2009" ,
+"nr_delivered" : "(8)" ,
+"comments" : "Second-hand; $370-494 m deal (part of $1-1.2 b 'SAM-X' programme)"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "100" ,
+"weapon_nr_txt" : "100" ,
+"weapon_designation" : "MTU-883" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2012" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For K-2 tanks produced in South Korea"
+}
+,{
+"supplier" : "South Korea (ROK)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "177" ,
+"weapon_nr_txt" : "(177)" ,
+"weapon_designation" : "Taurus KEPD-350" ,
+"weapon_description" : "ASM" ,
+"order_year" : "(2013)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Selected but contract not yet signed; for F-15K combat aircraft; chosen after USA refused AGM-158"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "144" ,
+"weapon_nr_txt" : "(144)" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "1997-2002" ,
+"nr_delivered" : "(144)" ,
+"comments" : "For 144 Pizarro (ASCOD) IFV produced in Spain"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "(2)" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000-2001" ,
+"nr_delivered" : "(2)" ,
+"comments" : "TRS-3D/16ES version; for 2 Galicia AALS produced in Spain"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "18" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2001" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "(18)" ,
+"comments" : "For 18 Piranha-2 APC from Switzerland"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "(2)" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "2" ,
+"comments" : "For training; Spanish designation HE-26"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "117" ,
+"weapon_nr_txt" : "(117)" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2003" ,
+"deliver_year" : "2009-2013" ,
+"nr_delivered" : "(117)" ,
+"comments" : "For 117 Pizarro (ASCOD) IFV produced in Spain"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "MAN-3240" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2004" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "2" ,
+"comments" : "For Juan Carlos AALS/aircraft carrier produced in Spain"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "60" ,
+"weapon_nr_txt" : "(60)" ,
+"weapon_designation" : "MIM-104C PAC-2" ,
+"weapon_description" : "SAM" ,
+"order_year" : "2004" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "(60)" ,
+"comments" : "Second-hand; for Patriot SAMS"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "12" ,
+"weapon_designation" : "MTU-396" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2004)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 4 S-80A submarines produced in Spain"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Patriot" ,
+"weapon_description" : "SAM system" ,
+"order_year" : "2004" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; EUR40-50 m deal"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "40" ,
+"weapon_nr_txt" : "40" ,
+"weapon_designation" : "DM-2A4 Seehecht" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "2005" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "EUR76 m deal; for S-80A submarines"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "43" ,
+"weapon_nr_txt" : "43" ,
+"weapon_designation" : "Taurus KEPD-350" ,
+"weapon_description" : "ASM" ,
+"order_year" : "2005" ,
+"deliver_year" : "2007-2010" ,
+"nr_delivered" : "43" ,
+"comments" : "EUR57 m deal"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "21" ,
+"weapon_nr_txt" : "(21)" ,
+"weapon_designation" : "MTU-183" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2007" ,
+"deliver_year" : "2010-2013" ,
+"nr_delivered" : "(18)" ,
+"comments" : "For 21 Piranha-3 APC/IFV from Switzerland"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "(2008)" ,
+"deliver_year" : "2008" ,
+"nr_delivered" : "(2)" ,
+"comments" : "For training; Spanish designation HE-26"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "Lance MTS" ,
+"weapon_description" : "IFV turret" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(4)" ,
+"comments" : "For Piranha-3C IFV from Switzerland"
+}
+,{
+"supplier" : "Spain" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "EC-135/EC-635" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For training; delivery 2014"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "R" ,
+"weapon_nr" : "360" ,
+"weapon_nr_txt" : "(360)" ,
+"weapon_designation" : "BMP-1" ,
+"weapon_description" : "IFV" ,
+"order_year" : "1994" ,
+"deliver_year" : "1998-2001" ,
+"nr_delivered" : "(360)" ,
+"comments" : "Former GDR equipment; modernized in Poland for $25.5 m before delivery; Swedish designation Pbv-501; 66 more delivered for spares only"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "10" ,
+"weapon_designation" : "MTU-N-90" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1995)" ,
+"deliver_year" : "2006-2008" ,
+"nr_delivered" : "10" ,
+"comments" : "For 5 Visby corvettes produced in Sweden"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "R" ,
+"weapon_nr" : "14" ,
+"weapon_nr_txt" : "14" ,
+"weapon_designation" : "Buffel" ,
+"weapon_description" : "ARV" ,
+"order_year" : "1999" ,
+"deliver_year" : "2002-2003" ,
+"nr_delivered" : "(14)" ,
+"comments" : "$125 m deal; Swedish designation Bgbv-120"
+}
+,{
+"supplier" : "Sweden" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "PiPz-3 Kodiak" ,
+"weapon_description" : "AEV" ,
+"order_year" : "2008" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "(6)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Switzerland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1000" ,
+"weapon_nr_txt" : "(1000)" ,
+"weapon_designation" : "DM-702 SMART-155" ,
+"weapon_description" : "Guided shell" ,
+"order_year" : "(2002)" ,
+"deliver_year" : "2003-2006" ,
+"nr_delivered" : "(1000)" ,
+"comments" : ""
+}
+,{
+"supplier" : "Switzerland" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Beech-1900/C-12J" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "2007" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; lease; Beech-1900D version"
+}
+,{
+"supplier" : "Taiwan (ROC)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "(24)" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1993)" ,
+"deliver_year" : "1994-2000" ,
+"nr_delivered" : "24" ,
+"comments" : "For 12 Jin Chiang FAC produced in Taiwan"
+}
+,{
+"supplier" : "Taiwan (ROC)" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "3" ,
+"comments" : "For 1 KH-6 FAC produced in Taiwan"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "20" ,
+"weapon_nr_txt" : "20" ,
+"weapon_designation" : "Alpha Jet" ,
+"weapon_description" : "Trainer/combat ac" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000-2001" ,
+"nr_delivered" : "20" ,
+"comments" : "Second-hand; $35 m deal; modernized before delivery; 5 more for spares only; for combat role"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Do-228MP" ,
+"weapon_description" : "MP aircraft" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2004" ,
+"nr_delivered" : "1" ,
+"comments" : "THB300 m deal; probably second-hand Do-228 transport aircraft modified to MP aircraft in FRG"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "102" ,
+"weapon_nr_txt" : "(102)" ,
+"weapon_designation" : "MTU-6R-106" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2009" ,
+"deliver_year" : "2010-2012" ,
+"nr_delivered" : "(102)" ,
+"comments" : "For 102 BTR-3E1 IFV from Ukraine"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "40" ,
+"weapon_nr_txt" : "(40)" ,
+"weapon_designation" : "IRIS-T" ,
+"weapon_description" : "SRAAM" ,
+"order_year" : "2010" ,
+"deliver_year" : "2012-2013" ,
+"nr_delivered" : "(40)" ,
+"comments" : "For JAS-39 combat aircraft"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "142" ,
+"weapon_nr_txt" : "(142)" ,
+"weapon_designation" : "MTU-6R-106" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2011" ,
+"deliver_year" : "2012-2013" ,
+"nr_delivered" : "(51)" ,
+"comments" : "For 142 BTR-3E1 IFV from Ukraine"
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "ACTAS" ,
+"weapon_description" : "ASW sonar" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : ""
+}
+,{
+"supplier" : "Thailand" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "BK-117/EC-145" ,
+"weapon_description" : "Helicopter" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "$34 m deal; UH-72A version; from US production line; delivery 2015"
+}
+,{
+"supplier" : "Tunisia" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Albatros/Type-143" ,
+"weapon_description" : "FAC" ,
+"order_year" : "2004" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "6" ,
+"comments" : "Second-hand; EUR34 m ($43 m) deal; Type-143B version"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "40" ,
+"weapon_nr_txt" : "40" ,
+"weapon_designation" : "DM-2A4 Seehecht" ,
+"weapon_description" : "AS/ASW torpedo" ,
+"order_year" : "(1999)" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(40)" ,
+"comments" : "$40 m deal; for Type-209/1400 (Preveze) submarines"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "470" ,
+"weapon_nr_txt" : "(470)" ,
+"weapon_designation" : "MTU-881" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2001)" ,
+"deliver_year" : "2004-2013" ,
+"nr_delivered" : "(470)" ,
+"comments" : "For 170 Sabra-3 (modernized M-60) tanks from Israel and 300 K-9 self-propelled guns from South Korea"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "COBRA" ,
+"weapon_description" : "Arty locating radar" ,
+"order_year" : "(2005)" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "(2)" ,
+"comments" : "Second-hand (probably little used by FRG)"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "298" ,
+"weapon_nr_txt" : "(298)" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2005" ,
+"deliver_year" : "2006-2010" ,
+"nr_delivered" : "(298)" ,
+"comments" : "Second-hand (but modernized to Leopard-2NG after delivery in Turkey); EUR365 m deal"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "(12)" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2008" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "4" ,
+"comments" : "For 6 Heybeliyada (MilGem) frigates produced in Turkey"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "70" ,
+"weapon_nr_txt" : "(70)" ,
+"weapon_designation" : "MTU-881" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2008" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(2)" ,
+"comments" : "For K-10 ALV from South Korea"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "56" ,
+"weapon_nr_txt" : "56" ,
+"weapon_designation" : "Leopard-2A4" ,
+"weapon_description" : "Tank" ,
+"order_year" : "2009" ,
+"deliver_year" : "2010-2013" ,
+"nr_delivered" : "(56)" ,
+"comments" : "Second-hand but  probably modernized to Leopard-2NG version in Turkey after delivery"
+}
+,{
+"supplier" : "Turkey" ,
+"sup_type" : "R" ,
+"weapon_nr" : "x" ,
+"weapon_nr_txt" : "x" ,
+"weapon_designation" : "MTU-883" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2013)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For Altay tanks produced in Turkey; selected but not yet ordered"
+}
+,{
+"supplier" : "Turkmenistan" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "(10)" ,
+"weapon_designation" : "D-2848" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2010)" ,
+"deliver_year" : "2011" ,
+"nr_delivered" : "(10)" ,
+"comments" : "For 10 Survivor-2 APC from Austria"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "436" ,
+"weapon_nr_txt" : "436" ,
+"weapon_designation" : "MTU-883" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "1993" ,
+"deliver_year" : "1994-2010" ,
+"nr_delivered" : "(436)" ,
+"comments" : "For 390 Leclerc tanks and 46 Leclerc ARV from France"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "(24)" ,
+"weapon_designation" : "BF6M" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2002" ,
+"deliver_year" : "2003" ,
+"nr_delivered" : "(24)" ,
+"comments" : "For 24 BTR-3U IFV from Ukraine; engines fitted in UAE"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "85" ,
+"weapon_nr_txt" : "85" ,
+"weapon_designation" : "BF6M" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2003" ,
+"deliver_year" : "2004-2005" ,
+"nr_delivered" : "(85)" ,
+"comments" : "For modernization of 85 M-109L-47 self-propelled guns; BF-6M-1015CP version"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "(24)" ,
+"weapon_designation" : "MTU-595" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2011-2013" ,
+"nr_delivered" : "(12)" ,
+"comments" : "For 6 Baynunah corvettes from France"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "32" ,
+"weapon_nr_txt" : "32" ,
+"weapon_designation" : "Tpz-1 Fuchs" ,
+"weapon_description" : "APC" ,
+"order_year" : "2005" ,
+"deliver_year" : "2007-2009" ,
+"nr_delivered" : "(32)" ,
+"comments" : "EUR160 m ($205 m) deal; Fuchs-2 version; incl 16 NBC and 8 biological warfare reconnaissance and 8 command post version"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Frankenthal/Type-332" ,
+"weapon_description" : "MCM ship" ,
+"order_year" : "2006" ,
+"deliver_year" : "2006" ,
+"nr_delivered" : "2" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "3" ,
+"weapon_nr_txt" : "3" ,
+"weapon_designation" : "COBRA" ,
+"weapon_description" : "Arty locating radar" ,
+"order_year" : "2009" ,
+"deliver_year" : "2010" ,
+"nr_delivered" : "(3)" ,
+"comments" : ""
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "24" ,
+"weapon_nr_txt" : "(24)" ,
+"weapon_designation" : "MTU-2000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2009" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "(8)" ,
+"comments" : "For 12 Ghannatha FAC from Sweden"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2010" ,
+"deliver_year" : "2013" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 Falaj-2 corvettes from Italy"
+}
+,{
+"supplier" : "United Arab Emirates" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Rmah" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "2011" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Possibly incl for minelaying; delivery 2014"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "99" ,
+"weapon_nr_txt" : "99" ,
+"weapon_designation" : "G-115" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "1998" ,
+"deliver_year" : "1999-2001" ,
+"nr_delivered" : "(99)" ,
+"comments" : "$28 m deal; owned and operated by civilian company for training of UK pilots; G-115E version; UK designation Tutor T-1"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "7" ,
+"weapon_nr_txt" : "(7)" ,
+"weapon_designation" : "Alpha Jet" ,
+"weapon_description" : "Trainer/combat ac" ,
+"order_year" : "1999" ,
+"deliver_year" : "2000" ,
+"nr_delivered" : "(7)" ,
+"comments" : "Second-hand; 5 more for spares only; for training target towing and trials"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "10" ,
+"weapon_nr_txt" : "10" ,
+"weapon_designation" : "BR-710" ,
+"weapon_description" : "Turbofan" ,
+"order_year" : "1999" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "(10)" ,
+"comments" : "For 5 Sentinel AGS aircraft from Canada and USA"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "RK-270" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2001" ,
+"deliver_year" : "2003-2004" ,
+"nr_delivered" : "6" ,
+"comments" : "For 3 River OPV produced in UK"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "RK-270" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "2005" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "2" ,
+"comments" : "For 1 River OPV produced in UK"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "23" ,
+"weapon_nr_txt" : "23" ,
+"weapon_designation" : "G-115" ,
+"weapon_description" : "Trainer aircraft" ,
+"order_year" : "2009" ,
+"deliver_year" : "2009-2010" ,
+"nr_delivered" : "(23)" ,
+"comments" : "Owned and operated by civilian company for training of UK pilots; UK designation Tutor T-1"
+}
+,{
+"supplier" : "United Kingdom" ,
+"sup_type" : "R" ,
+"weapon_nr" : "52" ,
+"weapon_nr_txt" : "(52)" ,
+"weapon_designation" : "MTU-4000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2013)" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "For 13 Type-26 frigates produced in UK; MTU-20V-4000 version"
+}
+,{
+"supplier" : "United States" ,
+"sup_type" : "R" ,
+"weapon_nr" : "12" ,
+"weapon_nr_txt" : "(12)" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2003)" ,
+"deliver_year" : "2008-2012" ,
+"nr_delivered" : "6" ,
+"comments" : "For 6 Legend (NSC) OPV produced in USA"
+}
+,{
+"supplier" : "United States" ,
+"sup_type" : "R" ,
+"weapon_nr" : "18" ,
+"weapon_nr_txt" : "(18)" ,
+"weapon_designation" : "TRS-3D" ,
+"weapon_description" : "Air/sea search radar" ,
+"order_year" : "2004" ,
+"deliver_year" : "2006-2012" ,
+"nr_delivered" : "(7)" ,
+"comments" : "For 11 Freedom (LCS) frigate and 6 Legend (NSC) OPV produced in USA and 1 land-based site; TRS-3D/16 version; possibly incl production in USA"
+}
+,{
+"supplier" : "United States" ,
+"sup_type" : "R" ,
+"weapon_nr" : "15" ,
+"weapon_nr_txt" : "(15)" ,
+"weapon_designation" : "Do-328" ,
+"weapon_description" : "Transport aircraft" ,
+"order_year" : "(2009)" ,
+"deliver_year" : "2009-2013" ,
+"nr_delivered" : "(15)" ,
+"comments" : "Second-hand"
+}
+,{
+"supplier" : "Unknown country" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "BOR-A550" ,
+"weapon_description" : "Air/ground surv radar" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "(1)" ,
+"comments" : "Recipient/recipients is/are Asian country/countries"
+}
+,{
+"supplier" : "Unknown country" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "BOR-A550" ,
+"weapon_description" : "Air/ground surv radar" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "(1)" ,
+"comments" : "Recipient/recipients is/are African country/countries"
+}
+,{
+"supplier" : "Unknown country" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "(1)" ,
+"weapon_designation" : "BOR-A550" ,
+"weapon_description" : "Air/ground surv radar" ,
+"order_year" : "(2000)" ,
+"deliver_year" : "2001" ,
+"nr_delivered" : "(1)" ,
+"comments" : "Recipient/recipients is/are American country/countries"
+}
+,{
+"supplier" : "Uruguay" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Wangerooge/Type-722" ,
+"weapon_description" : "Tug" ,
+"order_year" : "2002" ,
+"deliver_year" : "2002" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; for use as OPV Uruguayan designation Maldonado"
+}
+,{
+"supplier" : "Uruguay" ,
+"sup_type" : "R" ,
+"weapon_nr" : "1" ,
+"weapon_nr_txt" : "1" ,
+"weapon_designation" : "Lueneburg" ,
+"weapon_description" : "Support ship" ,
+"order_year" : "2005" ,
+"deliver_year" : "2005" ,
+"nr_delivered" : "1" ,
+"comments" : "Second-hand; $1 m deal; Uruguayan designation General Artigas"
+}
+,{
+"supplier" : "Uruguay" ,
+"sup_type" : "R" ,
+"weapon_nr" : "6" ,
+"weapon_nr_txt" : "6" ,
+"weapon_designation" : "Bo-105C" ,
+"weapon_description" : "Light helicopter" ,
+"order_year" : "2006" ,
+"deliver_year" : "2007" ,
+"nr_delivered" : "6" ,
+"comments" : "Second-hand; EUR1.8 m deal"
+}
+,{
+"supplier" : "Venezuela" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1998)" ,
+"deliver_year" : "2002" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 modernized Lupo (Sucre) frigates"
+}
+,{
+"supplier" : "Venezuela" ,
+"sup_type" : "R" ,
+"weapon_nr" : "16" ,
+"weapon_nr_txt" : "(16)" ,
+"weapon_designation" : "MTU-1163" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(2006)" ,
+"deliver_year" : "2011-2012" ,
+"nr_delivered" : "16" ,
+"comments" : "For 4 POVZEE (Caribé) OPV from Spain"
+}
+,{
+"supplier" : "Venezuela" ,
+"sup_type" : "R" ,
+"weapon_nr" : "8" ,
+"weapon_nr_txt" : "8" ,
+"weapon_designation" : "Do-228" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Do-228NG version; delivery from 2014"
+}
+,{
+"supplier" : "Venezuela" ,
+"sup_type" : "R" ,
+"weapon_nr" : "2" ,
+"weapon_nr_txt" : "2" ,
+"weapon_designation" : "Do-228" ,
+"weapon_description" : "Light transport ac" ,
+"order_year" : "2013" ,
+"deliver_year" : "" ,
+"nr_delivered" : "" ,
+"comments" : "Second-hand; Do-228-212 version; delivery 2014"
+}
+,{
+"supplier" : "Viet Nam" ,
+"sup_type" : "R" ,
+"weapon_nr" : "4" ,
+"weapon_nr_txt" : "4" ,
+"weapon_designation" : "MTU-8000" ,
+"weapon_description" : "Diesel engine" ,
+"order_year" : "(1996)" ,
+"deliver_year" : "2001-2005" ,
+"nr_delivered" : "4" ,
+"comments" : "For 2 BPS-500 FAC from Russia; designation uncertain"
+}
+]
