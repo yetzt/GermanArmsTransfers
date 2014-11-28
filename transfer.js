@@ -1,5 +1,7 @@
 var data;
 
+var pastTransition = 0;
+
 /* data structure:
 		"supplier" : 			Country
 		"sup_type" : 			Licenser (L) or Recipient (R)
@@ -134,7 +136,15 @@ function showLinear(){
 		.attr("x", (width/2))
 		.attr("y", (height / 2 - 10))
 		.style("text-anchor", "middle")
-		.style("font-size", "30px");
+		.style("font-size", "30px")
+		.on("click", function(d){
+			var trans_ = pastTransition - pastTransition;
+			d3.select("#group")
+	        			.transition()
+	        			.attr("transform", "translate(0, "+trans_+")")
+	        			.style("opacity", 1)
+	        			.duration(1000);
+		});
 
 	svg.append("path")
 		.attr("d", "M 0 "+(height / 2 - 37)+" L "+width+" "+(height / 2 - 37))
@@ -220,15 +230,29 @@ function showLinear(){
 	        		
 	        		var y_ = document.getElementById(this.id).getAttribute("y");
 	        		var trans_;
+	        		var transWord;
 
 	        		if(y_ < (height/2)){
 	        			trans_ = 150;
+	        			transWord = -100;
+	        			pastTransition = 150;
 	        		}else{
 						trans_ = -150;
+						transWord = 150;
+						pastTransition = -150;
 	        		}
+
 	        		d3.select("#group")
+	        			.transition()
 	        			.attr("transform", "translate(0, "+trans_+")")
-	        			.style("opacity", 0.4);
+	        			.style("opacity", 0.4)
+	        			.duration(1000);
+
+	        		d3.select("#"+this.id)
+	        			.transition()
+	        			.attr("transform", "translate(0, "+transWord+")")
+	        			.style("opacity", 1)
+	        			.duration(1000);
 
 	        	});
         
