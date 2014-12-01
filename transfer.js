@@ -1,6 +1,8 @@
 var data;
 
-var pastTransition = 0;
+var pastTransition = 0,
+	pastRotation = 0,
+	pastElementID = null;
 
 /* data structure:
 		"supplier" : 			Country
@@ -144,6 +146,15 @@ function showLinear(){
 	        			.attr("transform", "translate(0, "+trans_+")")
 	        			.style("opacity", 1)
 	        			.duration(1000);
+
+	        if(pastElementID != null){
+	        	d3.select("#"+pastElementID)
+		        	.transition()
+		        	.attr("transform", pastRotation)
+		        	.duration(1000);
+
+		        	pastElementID = null;
+	       	}
 		});
 
 	svg.append("path")
@@ -229,8 +240,16 @@ function showLinear(){
 	        	.on("click", function(d){
 	        		
 	        		var y_ = document.getElementById(this.id).getAttribute("y");
+	        		var x_ = document.getElementById(this.id).getAttribute("x");
 	        		var trans_;
 	        		var transWord;
+
+	        		if(pastElementID != null){
+	        			d3.select("#"+pastElementID)
+		        			.transition()
+		        			.attr("transform", pastRotation)
+		        			.duration(1000);
+	        		}
 
 	        		if(y_ < (height/2)){
 	        			trans_ = 150;
@@ -238,8 +257,8 @@ function showLinear(){
 	        			pastTransition = 150;
 	        		}else{
 						trans_ = -150;
-						transWord = 150;
-						pastTransition = -150;
+						transWord = 190;
+						pastTransition = -190;
 	        		}
 
 	        		d3.select("#group")
@@ -248,11 +267,15 @@ function showLinear(){
 	        			.style("opacity", 0.4)
 	        			.duration(1000);
 
+	        			//TODO opacity wird nicht verändert, weil ich vorher die gesamte Gruppe aufhelle
 	        		d3.select("#"+this.id)
 	        			.transition()
-	        			.attr("transform", "translate(0, "+transWord+")")
+	        			.attr("transform", "translate("+(width/2 - x_)+", "+transWord+")")
 	        			.style("opacity", 1)
 	        			.duration(1000);
+
+	        		pastElementID = this.id;
+	        		pastRotation = document.getElementById(this.id).getAttribute("transform");
 
 	        	});
         
