@@ -244,11 +244,12 @@ function showLinear(){
 	        		var trans_;
 	        		var transWord;
 
-	        		if(pastElementID != null){
+	        		if( (pastElementID != null) && (pastElementID != this.id)){
+	        			console.log("?");
 	        			d3.select("#"+pastElementID)
 		        			.transition()
 		        			.attr("transform", pastRotation)
-		        			.duration(1000);
+		        			.duration(1000);		        		
 	        		}
 
 	        		if(y_ < (height/2)){
@@ -274,8 +275,12 @@ function showLinear(){
 	        			.style("opacity", 1)
 	        			.duration(1000);
 
-	        		pastElementID = this.id;
-	        		pastRotation = document.getElementById(this.id).getAttribute("transform");
+	        		if(pastElementID != this.id){
+	        			pastElementID = this.id;
+	        			pastRotation = document.getElementById(this.id).getAttribute("transform");
+	        		}
+	        		
+	        		
 
 	        	});
         
