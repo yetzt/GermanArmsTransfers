@@ -129,6 +129,7 @@ function showLinear(){
 	    	.append("svg")
 	    	.attr("width", width)
 	    	.attr("height", height)
+	    	.attr("class", "im")
 	    	.append("g")
 	    		.attr("id", "group");
 
@@ -146,6 +147,11 @@ function showLinear(){
 	        			.attr("transform", "translate(0, "+trans_+")")
 	        			.style("opacity", 1)
 	        			.duration(1000);
+
+	        d3.selectAll("text")
+	        			.style("opacity", 1);
+
+	        d3.selectAll(".dot").remove();
 
 	        if(pastElementID != null){
 	        	d3.select("#"+pastElementID)
@@ -238,14 +244,12 @@ function showLinear(){
 	                // return tooltip.style("visibility", "hidden");
 	        	})
 	        	.on("click", function(d){
-	        		
 	        		var y_ = document.getElementById(this.id).getAttribute("y");
 	        		var x_ = document.getElementById(this.id).getAttribute("x");
 	        		var trans_;
 	        		var transWord;
 
 	        		if( (pastElementID != null) && (pastElementID != this.id)){
-	        			console.log("?");
 	        			d3.select("#"+pastElementID)
 		        			.transition()
 		        			.attr("transform", pastRotation)
@@ -265,25 +269,48 @@ function showLinear(){
 	        		d3.select("#group")
 	        			.transition()
 	        			.attr("transform", "translate(0, "+trans_+")")
-	        			.style("opacity", 0.4)
 	        			.duration(1000);
 
-	        			//TODO opacity wird nicht verändert, weil ich vorher die gesamte Gruppe aufhelle
+	        		d3.selectAll("text")
+	        			.style("opacity", 0.4);
+
 	        		d3.select("#"+this.id)
 	        			.transition()
 	        			.attr("transform", "translate("+(width/2 - x_)+", "+transWord+")")
 	        			.style("opacity", 1)
 	        			.duration(1000);
 
+	        		drawTransfers(d, trans_, height);
+
 	        		if(pastElementID != this.id){
 	        			pastElementID = this.id;
 	        			pastRotation = document.getElementById(this.id).getAttribute("transform");
 	        		}
-	        		
-	        		
-
 	        	});
         
+	}
+}
+
+function drawTransfers(data, transition, height){
+	var d = data.transfers
+	var y_;
+
+	if(transition < 0){
+		y_ = height - 100;
+	}else{
+		y_ = height - height + 100;
+	}
+
+	d3.selectAll(".dot").remove();
+
+	for(var i = 0; i < d.length; i++){
+		d3.select(".im")
+			.append("circle")
+			.attr("class", "dot")
+			.attr("cx", (i*40)+30)
+			.attr("cy", y_)
+			.attr("r", 5)
+			.style("fill", circleColor(d[i].sup_type));
 	}
 }
 
@@ -338,6 +365,14 @@ function orderByWeapons(d){
 	});
 
 	data = d;
+}
+
+function circleColor(val){
+	if(val == "R"){
+		return "#ff6666";
+	}else{
+		return "#99cccc";
+	}
 }
 
 function fontsizeMapping(val){
