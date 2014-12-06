@@ -4,6 +4,23 @@ var pastTransition = 0,
 	pastRotation = 0,
 	pastElementID = null;
 
+var minWeapons = Number.MAX_VALUE,
+	maxWeapons = Number.MIN_VALUE;
+
+var minTrans = Number.MAX_VALUE,
+	maxTrans = Number.MIN_VALUE;
+
+var radiusSize = d3.scale.pow().exponent(0.2);
+
+var fSize = d3.scale.pow().exponent(0.2);
+
+var tooltip = d3.select(".popup")
+        .append("div")
+        .attr("class", "tipp")
+        .style("position", "absolute")
+        .style("z-index", "10")
+        .style("visibility", "hidden");
+
 /* data structure:
 		"supplier" : 			Country
 		"sup_type" : 			Licenser (L) or Recipient (R)
@@ -15,14 +32,6 @@ var pastTransition = 0,
 		"nr_delivered" : 		Number of delivered / licensed weapons
 		"comments" : 			Comment about the transfer
 */
-
-var tooltip = d3.select(".popup")
-        .append("div")
-        .attr("class", "tipp")
-        .style("position", "absolute")
-        .style("z-index", "10")
-        .style("visibility", "hidden");
-
 queue()
     .defer(d3.json, "deutschland.json")
     .await(read);
@@ -35,6 +44,12 @@ function read(error, german){
     // orderByCountry(data);
     sumWeapons(data);
     orderByWeapons(data);
+    
+    radiusSize.domain([minWeapons, maxWeapons])
+    			.range([5, 50]);
+
+    fSize.domain([minTrans, maxTrans])
+    			.range([15, 30]);
 
     orderByCountry(data);
 	showLinear();
@@ -122,7 +137,7 @@ function showDiamond(){
 }
 
 function showLinear(){
-	var width = 1000, 
+	var width = 1050, 
 		height = 400;
 
 	var svg = d3.select(".trans")
@@ -177,7 +192,7 @@ function showLinear(){
 	var newline = -10;
 
 	for(var i = 0; i < data.length; i++){
-    	var s = fontsizeMapping(data[i].weaponSum)+"px";
+    	var s = fSize(data[i].weaponSum)+"px";
     	
     	svg.append("text")
     		.datum(data[i])
@@ -307,9 +322,9 @@ function drawTransfers(data, transition, height){
 		d3.select(".im")
 			.append("circle")
 			.attr("class", "dot")
-			.attr("cx", (i*40)+30)
+			.attr("cx", (i*50)+50)
 			.attr("cy", y_)
-			.attr("r", 5)
+			.attr("r", radiusSize(d[i].weapon_nr))
 			.style("fill", circleColor(d[i].sup_type));
 	}
 }
@@ -323,9 +338,24 @@ function sumWeapons(d){
 			if(d[i].values.length == 1 && d[i].values[j].weapon_nr == "x"){
 				weaponSum = "x";
 			}else if(d[i].values[j].weapon_nr != "x"){
-				weaponSum += parseInt(d[i].values[j].weapon_nr);
+				var w = parseInt(d[i].values[j].weapon_nr);
+				weaponSum += w;
+				if(w < minWeapons){
+					minWeapons = w;
+				}
+				if(w > maxWeapons){
+					maxWeapons = w;
+				}
 			}
 		}
+
+		if(weaponSum < minTrans){
+			minTrans = weaponSum;
+		}
+		if(weaponSum > maxTrans){
+			maxTrans = weaponSum;
+		}
+
 		var o = {
 			country: d[i].key,
 			weaponSum: weaponSum,
@@ -373,34 +403,4 @@ function circleColor(val){
 	}else{
 		return "#99cccc";
 	}
-}
-
-function fontsizeMapping(val){
-	var size = 14;
-	if( val < 10){
-		size = 15;
-	}else if (val >= 10 && val < 100){
-		size = 16;
-	}else if (val >= 100 && val < 200){
-		size = 17;
-	}else if (val >= 200 && val < 300){
-		size = 18;
-	}else if (val >= 300 && val < 400){
-		size = 19;
-	}else if (val >= 400 && val < 550){
-		size = 20;
-	}else if (val >= 550 && val < 900){
-		size = 21;
-	}else if (val >= 900 && val < 1000){
-		size = 23;
-	}else if (val >= 1000 && val < 2000){
-		size = 25;
-	}else if (val >= 2000 && val < 3000){
-		size = 27;
-	}else if (val >=3000 && val < 6000){
-		size = 28;
-	}else{
-		size = 30;
-	}
-	return size;
 }
