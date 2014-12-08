@@ -384,14 +384,7 @@ function orderByCountry(d){
 
 function orderByWeapons(d){
 	d.sort(function(a, b){
-		if (a.weaponSum < b.weaponSum) {
-			return 1;
-  		}
-		if (a.weaponSum > b.weaponSum) {
-		    return -1;
-		}
-		// a must be equal to b
-		return 0;
+		return b.weaponSum - a.weaponSum;
 	});
 
 	data = d;
